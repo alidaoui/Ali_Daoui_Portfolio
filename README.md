@@ -1,4 +1,4 @@
-# Classifiers
+# Classification
 ## [Project 1: Customer Ad Click Classifier](https://github.com/alidaoui/Customer-Clicks-Classifier)
 **Uses Logistic Regression**
 
