@@ -25,7 +25,7 @@ Predicts ice cream sales based on temperature.
 
 Predicts cost per unit sold based on number of units.
 
-## [Project 2: Stock Market Price Regressor](https://github.com/alidaoui/Stock-Price-Regressor)
+## [Project 3: Stock Market Price Regressor](https://github.com/alidaoui/Stock-Price-Regressor)
 **Multiple Linear Regression**
 
 Predicts S&P Stock Price Based on employment rate and interest rates.
