@@ -25,6 +25,11 @@ Predicts ice cream sales based on temperature.
 
 Predicts cost per unit sold based on number of units.
 
+## [Project 2: Stock Market Price Regressor](https://github.com/alidaoui/Stock-Price-Regressor)
+**Multiple Linear Regression**
+
+Predicts S&P Stock Price Based on employment rate and interest rates.
+
 # III. Web Scraping
 ## [Project 1: Rotten Tomatoes Web Scraper](https://github.com/alidaoui/Rotten-Tomatoes-Web-Scraper)
 The program uses python's request and beautiful soup packages and the lxml parser to get the html of [this](https://editorial.rottentomatoes.com/guide/140-essential-action-movies-to-watch-now/) webpage, then extracts the information and puts it in a Pandas DataFrame, then exports it in a csv file titled "Movies Info.csv".
