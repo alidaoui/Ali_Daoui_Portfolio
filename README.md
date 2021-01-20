@@ -29,7 +29,7 @@ Predicts ice cream sales based on temperature.
 
 Predicts cost per unit sold based on number of units.
 
-![Scatterplot of Cost vs Units with a polinomial regression line](cost.png)
+![Scatterplot of Cost vs Units with a polinomial regression line](cost2.png)
 
 ## [Project 3: Stock Market Price Regressor](https://github.com/alidaoui/Stock-Price-Regressor)
 **Multiple Linear Regression**
