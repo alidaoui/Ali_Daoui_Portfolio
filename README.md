@@ -3,7 +3,7 @@
 **Logistic Regression**
 
 Predicts customer clicks based on time spent on site, and estimated salary.
-
+ 
 ![Figure of results showing classified data points](click.png)
 
 ## [Project 2: Credit Card Fraud Classifier](https://github.com/alidaoui/Credit-Card-Fraud-Classifier)
