@@ -25,10 +25,14 @@ Predicts ice cream sales based on temperature.
 
 Predicts cost per unit sold based on number of units.
 
+![Scatterplot of Cost vs Units with a polinomial regression line](cost.png)
+
 ## [Project 3: Stock Market Price Regressor](https://github.com/alidaoui/Stock-Price-Regressor)
 **Multiple Linear Regression**
 
 Predicts S&P Stock Price Based on employment rate and interest rates.
+
+![Figure of Stock Price as a function of Interest Rate and Empoyment Rate](stock.png)
 
 # III. Web Scraping
 ## [Project 1: Rotten Tomatoes Web Scraper](https://github.com/alidaoui/Rotten-Tomatoes-Web-Scraper)
