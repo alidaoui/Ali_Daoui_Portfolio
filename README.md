@@ -17,21 +17,28 @@ Classifies bank transactions into legitimate and fraudulent.
 Classifies tumors into benign and malignant.
 
 # II. Regression
-## [Project 1: Ice Cream Sales Regressor](https://github.com/alidaoui/Ice-Cream_Sales)
+## [Project 1: House Price Regressor](https://github.com/alidaoui/House-Prices-Prediction)
+**Artificial Neural Networks**
+
+Predicts the house price in King County, USA using Artificial Neural Networks. 
+
+![figure showing model loss progress during training](DL.png)
+
+## [Project 2: Ice Cream Sales Regressor](https://github.com/alidaoui/Ice-Cream_Sales)
 **Linear Regression**
 
 Predicts ice cream sales based on temperature.
 
 ![Scatterplot of Sales vs Temperature with a linear regression line](icecream.png)
 
-## [Project 2: Cost Per Unit Sold Regressor](https://github.com/alidaoui/Cost-Per-Unit-Regressor)
+## [Project 3: Cost Per Unit Sold Regressor](https://github.com/alidaoui/Cost-Per-Unit-Regressor)
 **Polynomial Regression**
 
 Predicts cost per unit sold based on number of units.
 
 ![Scatterplot of Cost vs Units with a polynomial regression line](cost2.png)
 
-## [Project 3: Stock Market Price Regressor](https://github.com/alidaoui/Stock-Price-Regressor)
+## [Project 4: Stock Market Price Regressor](https://github.com/alidaoui/Stock-Price-Regressor)
 **Multiple Linear Regression**
 
 Predicts S&P Stock Price Based on employment rate and interest rates.
