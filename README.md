@@ -22,6 +22,8 @@ Classifies tumors into benign and malignant.
 
 Predicts ice cream sales based on temperature.
 
+![Scatterplot of Sales vs Temperature with a linear regression line](icecream.png)
+
 ## [Project 2: Cost Per Unit Sold Regressor](https://github.com/alidaoui/Cost-Per-Unit-Regressor)
 **Polynomial Regression**
 
